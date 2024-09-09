@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about the all computer systems that run at NIAB.
 - 📫 You can reach me at lewis.allen@niab.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises.
+- ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises 🐢🐢.
 
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
