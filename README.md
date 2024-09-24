@@ -4,8 +4,7 @@
 - 👷‍♂️ My main task at the moment is improving the DUS Admin system.
 - 📫 You can reach me at lewis.allen@niab.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises 🐢🐢 <-- tortoises.
-
+- ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises.
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
