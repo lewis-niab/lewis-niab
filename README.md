@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lewis Allen @lewis-niab and I am working in the IT team at NIAB as a software developer.
 - 👀 My interest is web-based software application development.
-- 🌱 I will be doing some training on the Oracle database product so that I can help Pascal out with Oracle application support.
+- 🌱 I will be doing some training on the Oracle database product so that I can help out with Oracle application support.
 - 👷‍♂️ My main task at the moment is fixing and enhancing the DUS Admin system.
 - 📫 You can reach me at lewis.allen@niab.com
 - 😄 Pronouns: Mr.
