@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Lewis Allen @lewis-niab and I am working in the IT team at Niab as a software specialist.
+- 👋 Hi, I’m Lewis Allen @lewis-niab
+- 🏢 I'm working in the IT team at Niab as a software specialist.
 - 👀 My interest is web-based software application development.
 - 👷‍♂️ My main tasks are the software development of the DUS Admin and CM systems.
 - 🌱 I will be doing some training on the Oracle database product so that I can help out with Oracle legacy application support.
