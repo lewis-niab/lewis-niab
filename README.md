@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lewis Allen @lewis-niab
 - 🏢 I'm working in the IT team at Niab as a software specialist.
 - 👀 My interest is cloud-based Java software application development.
-- 👷‍♂️ My main activity is the software support and enhancement of the Niab Distinct, Uniform, Stable (DUS) Admin system and the Niab Contract Management (CM) system, both critical systems for Niab.
-- 🌱 I will be doing some training on the Oracle database product so that I can help with supporting the Oracle legacy applications.
+- 👷‍♂️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, both business critical systems for Niab.
+- 🌱 I am training on the Oracle database product so that I can help with supporting the Oracle legacy applications.
 - 📫 You can reach me at lewis.allen@niab.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises.
