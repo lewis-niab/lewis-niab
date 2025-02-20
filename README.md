@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lewis Allen @lewis-niab. I have a degree in Biology and an MSC in Information Systems. I started in the IT industry in 1978 as a graduate trainee with Unilever Computer Services Limited (UCSL). 
+- 👋 Hi, I’m Lewis Allen @lewis-niab. I have a degree in Biology and a masters in Information Systems. I started in the IT industry in 1978 as a graduate trainee with Unilever Computer Services Limited (UCSL). 
 - 🏢 I'm currently working in the IT development team at Niab as a software engineer.  Niab is a major international centre for plant science, crop evaluation and agronomy.
 - 👀 My interest is cloud-based Java software application development, machine learning and artificial intelligence.
 - 👷‍♂️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, both business critical systems for Niab.
