@@ -2,7 +2,7 @@
 - 🏢 I'm currently working in the IT development team at Niab as a software engineer.  Niab is a major international centre for plant science, crop evaluation and agronomy.
 - 👀 My interest is cloud-based Java software application development, machine learning and artificial intelligence.
 - 👷‍♂️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, both business critical systems for Niab.
-- 🌱 I am training on an ancient Oracle system which, although out of support, is required by DEFRA.  So that I can help when the Oracle legacy applications misbehave.
+- 🌱 I am also learning a legacy Oracle system which, although out of support, is required by DEFRA. 
 - 📫 You can reach me at lewis.allen@niab.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises.
