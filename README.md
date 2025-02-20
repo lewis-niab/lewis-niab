@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lewis Allen @lewis-niab
-- 🏢 I'm working in the IT team at Niab as a software engineer.  Niab is a major international centre for plant science, crop evaluation and agronomy.
+- 🏢 I'm working in the IT development team at Niab as a software engineer.  Niab is a major international centre for plant science, crop evaluation and agronomy.
 - 👀 My interest is cloud-based Java software application development, machine learning and artificial intelligence.
 - 👷‍♂️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, both business critical systems for Niab.
 - 🌱 I am training on the Oracle database product so that I can help with supporting the Oracle legacy applications.
