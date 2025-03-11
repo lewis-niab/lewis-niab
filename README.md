@@ -3,7 +3,7 @@
 - 👀 My interest is cloud-based Java software application development, machine learning and artificial intelligence.
 - 👷‍♂️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, both business critical systems for Niab.
 - 🌱 I am also learning a legacy Oracle system which, although out of support, is required by DEFRA. 
-- 📫 You can reach me at lewis.allen@niab.com
+- 📫 You can reach me at lewis.allen@niab.com and lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises, who are currently in hibernation.
 <!---
