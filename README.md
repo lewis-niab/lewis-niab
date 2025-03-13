@@ -5,7 +5,7 @@
 - 🌱 I am also learning a legacy Oracle system which, although out of support, is required by DEFRA. 
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises, who are just waking up from hibernation.
+- ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises, who have just woken from three months in hibernation and are now up and about and eating. 
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
