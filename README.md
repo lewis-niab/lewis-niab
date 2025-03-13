@@ -6,7 +6,7 @@
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: I'm a member of the Norfolk Tortoise Club and I have two Hermann's tortoises, who have just woken from three months in hibernation and are now up and about and eating. 
-- <img src="C:\Users\lewis.allen\Development\lewis-niab\20250313_130648.jpg"/>
+![20250313_130648](https://github.com/user-attachments/assets/07764f9d-88a7-418f-96c9-2c5845171bf4)
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
