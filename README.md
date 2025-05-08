@@ -5,8 +5,8 @@
 - 🌱 I am also learning a legacy Oracle system which, although out of support, is required by DEFRA. 
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: Our two Hermann's tortoises have just woken from three months in hibernation and are now eating cabbage. 
-![20250313_130648](https://github.com/user-attachments/assets/07764f9d-88a7-418f-96c9-2c5845171bf4)
+- ⚡ Fun fact: I have two potted money plants at home that are fourty six years old. They are not frost hardy, so they go outside in the spring and come back in the house in the autumn.
+
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
