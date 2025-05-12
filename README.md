@@ -2,7 +2,7 @@
 - 🏢 I'm currently a senior software engineer at Niab, which is a major international centre for plant science, crop evaluation and agronomy.
 - 👀 My interest is cloud-based Java software application development, machine learning and artificial intelligence.
 - 👷‍♂️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, both business critical systems for Niab.
-- ☁️ I am working on a cloud-based application to provide Niab staff with access to East Malling weather data.
+- ☁️ I am working on a cloud-based application to provide Niab staff with access to weather data.
 - 🌱 I am also learning to support legacy Oracle systems which, although last actively developed over twenty years ago, amazingly are still being used by Niab. 
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
