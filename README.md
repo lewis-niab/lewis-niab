@@ -6,7 +6,7 @@
 - 🌱 I am also learning to support legacy Oracle systems which, although last actively developed over twenty years ago, amazingly are still being used by Niab. 
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I have two large potted money plants at home that are forty-six years old. They are not frost hardy, so every year there is a ritual where they go outside in the spring and come back in the house in the autumn.
+- ⚡ Fun fact: I have two large potted money plants (Crassula ovata) at home that are forty-six years old. Crassula are interesting because they have a metabolism that is an adaptation to arid conditions that allows them to photosynthesize during the day, but only exchange gases at night.  My plants are not frost hardy, so every year there is a ritual where they go outside in the spring and come back in the house in the autumn.
 
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
