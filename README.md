@@ -6,7 +6,7 @@
 - 🌱 I am also learning to support legacy Oracle systems which, although last actively developed over twenty years ago, amazingly are still being used by Niab. 
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
-- ⚡ Fun fact: I have two large potted money plants (Crassula ovata) at home that are forty-six years old. These plants are interesting because they have a <a href="https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism#:~:text=Crassulacean%20acid%20metabolism%2C%20also%20known,only%20exchange%20gases%20at%20night2.">Crassulacean acid metabolism</a> that is an adaptation to arid conditions that allows them to photosynthesize during the day, but only exchange gases at night.  These plants are not frost hardy, so every year we have a ritual where they go outside in the spring and come back in the house in the autumn.
+- ⚡ Fun fact: I have two large potted money plants (Crassula ovata) at home. These plants are interesting because they have a <a href="https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism#:~:text=Crassulacean%20acid%20metabolism%2C%20also%20known,only%20exchange%20gases%20at%20night2.">Crassulacean acid metabolism</a> that is an adaptation to arid conditions that allows them to photosynthesize during the day, but only exchange gases at night.  These plants are not frost hardy, so every year we have a ritual where they go outside in the spring and come back in the house in the autumn. The plants have adapted to their surroundings and are now forty-six years old.
 
 <!---
 lewis-niab/lewis-niab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
