@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Lewis Allen @lewis-niab. I have a degree in Biology (1976) and a masters in Information Systems (2009) from the University of East Anglia.
-- 👨‍💼 I have worked as a software developer for leading companies including Unilever, IBM, Legal & General, Lloyds Bank, Accenture, London Stock Exchange, JP Morgan, Lloyds of London, Euroclear and The Wellcome Trust.
+- 👨‍💼 I have worked as a software developer since 1979 for leading companies including Unilever, IBM, Legal & General, Lloyds Bank, Accenture, London Stock Exchange, JP Morgan, Lloyds of London, Euroclear and The Wellcome Trust.
 - 🏢 I'm currently a senior software engineer at Niab, which is a major international centre for plant science, crop evaluation and agronomy.
 - 🏃‍♂️‍➡️ My main activity is the software support and enhancement of the Distinct, Uniform, Stable (DUS) Admin system and the Contract Management (CM) system, which are both business critical systems at Niab.
 - 🧑🏼‍🤝‍🧑 I live in Norwich in Norfolk UK with a teenage daughter, a small dog, two Hermann's tortoises amd two budgerigars. No chickens.
