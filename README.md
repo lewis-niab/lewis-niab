@@ -6,7 +6,7 @@
 - 🌱 I am also learning to support legacy Oracle systems which, although last actively developed over twenty years ago, are still maintained by Niab. 
 - 📫 You can reach me at lewis.allen@niab.com or lewis.allen@gmail.com
 - 😄 Pronouns: Mr.
-- 🧑🏼‍🤝‍🧑 I am single with a teenage daughter who shares the house with me.
+- 🧑🏼‍🤝‍🧑 I live in Norwich in Norfolk UK with a teenage daughter, a small dog, two Hermann's tortoises amd two budgerigars.
 - ⚡ Fun fact: I have two large potted money plants ([Crassula ovata](https://en.wikipedia.org/wiki/Crassula_ovata)) at home that are over forty-five years old. These plants are interesting because they have an unusual metabolism, <a href="https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism#:~:text=Crassulacean%20acid%20metabolism%2C%20also%20known,only%20exchange%20gases%20at%20night2.">Crassulacean acid metabolism (CAM)</a>, that is an adaptation to arid conditions that allows them to photosynthesize during the day, but only exchange gases at night.  These plants are not frost hardy, so every spring I put them out in the garden and every autumn they come back in again. 
 
 <!---
